@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/intership/static/css/main.c663d1ab.css",
-    "main.js": "/intership/static/js/main.734c91f3.js",
-    "static/js/453.7647ec70.chunk.js": "/intership/static/js/453.7647ec70.chunk.js",
-    "index.html": "/intership/index.html",
-    "main.c663d1ab.css.map": "/intership/static/css/main.c663d1ab.css.map",
-    "main.734c91f3.js.map": "/intership/static/js/main.734c91f3.js.map",
-    "453.7647ec70.chunk.js.map": "/intership/static/js/453.7647ec70.chunk.js.map"
+    "main.css": "/internship/static/css/main.c663d1ab.css",
+    "main.js": "/internship/static/js/main.a7cd048e.js",
+    "static/js/453.7647ec70.chunk.js": "/internship/static/js/453.7647ec70.chunk.js",
+    "index.html": "/internship/index.html",
+    "main.c663d1ab.css.map": "/internship/static/css/main.c663d1ab.css.map",
+    "main.a7cd048e.js.map": "/internship/static/js/main.a7cd048e.js.map",
+    "453.7647ec70.chunk.js.map": "/internship/static/js/453.7647ec70.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c663d1ab.css",
-    "static/js/main.734c91f3.js"
+    "static/js/main.a7cd048e.js"
   ]
 }
